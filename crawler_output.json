@@ -1,0 +1,44 @@
+{
+    "paragraphs": [
+        "\n              Start your free trial, then enjoy 3 months of Shopify for $1\/month when you sign up for a monthly Basic or Starter plan.\n            ",
+        "Shopify is trusted by millions of businesses worldwide",
+        "By entering your email, you agree to receive marketing emails from Shopify.",
+        "Customize the design of your shop from over thousands of themes. No design experience or programming skills required.",
+        "Add your products to the shop. List your eye-catching products with the best photos, price and descriptions.",
+        "Set up payments and shipping, and start selling.",
+        "Brands that use Shopify",
+        "\u201cShopify is better than any other platform we\u2019ve played with, and we\u2019ve played with them all.\u201d"
+    ],
+    "buttons": [
+        "Create your store",
+        "Start free trial",
+        "Start free trial"
+    ],
+    "links": [
+        "\/legal\/terms",
+        "\/legal\/privacy"
+    ],
+    "subpages": {
+        "\/legal\/terms": {
+            "error": "Failed to fetch content from \/legal\/terms"
+        },
+        "\/legal\/privacy": {
+            "error": "Failed to fetch content from \/legal\/privacy"
+        }
+    },
+    "forms": [
+        "\n\n\n  Email address\n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n\n        \n\n      \n      \n      \n      \n    \n  \n\n  \n    Create your store\n  \n",
+        "Email addressStart free trial",
+        "Start free trial"
+    ],
+    "spans": [
+        "Email address",
+        "",
+        "",
+        "",
+        "Opens in a new window",
+        "Opens an external site",
+        "Opens an external site in a new window",
+        ""
+    ]
+}
