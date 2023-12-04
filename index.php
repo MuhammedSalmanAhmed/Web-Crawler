@@ -120,10 +120,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <button type="submit">Crawl</button>
     </form>
 
+    <p>To search something, <a href="search.php">Click Here</a></p>
     <?php if ($result !== null && !isset($result['error'])) : ?>
         <h2>Results:</h2>
         <pre><?= $jsonData ?></pre>
     <?php endif; ?>
+
 
 </body>
 
